@@ -1,0 +1,15 @@
+site_name: NewSpring Lexington
+pages:
+- Home: index.md
+- Staff: about.md
+- Power: power.md
+- Audio: audio.md
+- Lighting: lighting.md
+- Screen & Projectors: screensprojectors.md
+- A-Control: acontrol.md
+- Pipe & Drape: pipedrape.md
+theme: 'material'
+extra:
+  palette:
+    primary: 'light green'
+    accent: 'orange'
