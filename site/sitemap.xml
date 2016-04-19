@@ -4,65 +4,75 @@
     
     <url>
      <loc>None/</loc>
-     <lastmod>2016-04-18</lastmod>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
+        
     <url>
-     <loc>None/about/</loc>
-     <lastmod>2016-04-18</lastmod>
+     <loc>None/newserve/firstlook/</loc>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    <url>
+     <loc>None</loc>
+     <lastmod></lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
     
+        
     <url>
-     <loc>None/power/</loc>
-     <lastmod>2016-04-18</lastmod>
+     <loc>None/lilo/power/</loc>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    <url>
+     <loc>None/lilo/audio/</loc>
+     <lastmod>2016-04-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/lilo/lighting/</loc>
+     <lastmod>2016-04-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/lilo/screensprojectors/</loc>
+     <lastmod>2016-04-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/lilo/acontrol/</loc>
+     <lastmod>2016-04-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/lilo/pipedrape/</loc>
+     <lastmod>2016-04-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
     
+        
     <url>
-     <loc>None/audio/</loc>
-     <lastmod>2016-04-18</lastmod>
+     <loc>None</loc>
+     <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
-    <url>
-     <loc>None/lighting/</loc>
-     <lastmod>2016-04-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>None/screensprojectors/</loc>
-     <lastmod>2016-04-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>None/acontrol/</loc>
-     <lastmod>2016-04-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>None/pipedrape/</loc>
-     <lastmod>2016-04-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
+        
     
 
 </urlset>

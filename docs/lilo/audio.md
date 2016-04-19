@@ -1,14 +1,30 @@
 #Audio
+##Audio Workboxes
+
+!!! warning
+	Need to document what lives in audio work box and set expectations to keep it clean and organized.
 
 ##Front of House
 Audio Front of House is built on top of the FOH console road case.
 
+!!! warning
+	Need documentation for how to set up FOH, FOH data snake and FOH power snake
+
 ##PA System
+
+!!! warning
+	Need documentation for how to set up PA system
 
 ##Amp Rack
 Our amp rack lives on stage in the up stage right corner of the stage in between the power distro and the audio wireless rack. There is 6ft 50amp twist-lock power cable that connects the back of the amp rack to the power distro.
 
+!!! note
+	Need documentation for how to connect AES along with photos
+
 ##Wireless Rack
+
+!!! warning
+	Need documentation for how to hook up antenna paddles
 
 ##Stage Boxes
 There are 4 audio boxes that get signal from the stage to the audio input/output racks that are mounted in the audio wireless rack.

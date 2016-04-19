@@ -4,15 +4,29 @@ We use 3 screens and projectors each weekend and we want to keep each one in the
 1. Screen 1, Projector 1, and Genie Lift 1 are located on the stage right floor of the cafeteria. Screen 1 is ground supported using the leg structures located in the smaller black case.
 2. Screen 2, Projector 2, and Genie Lift 2 are located on the the center of the stage. Screen 2 is supported by 1 10' sections of truss
 3. Screen 3, Projector 3, and Genie Lift 3 are located on the stage left floor of the cafeteria. Screen 3 is ground supported using the leg structures located in the smaller black case.
+
 ##Screens 1 & 3
+
+!!! warning
+	Need documentation for how to set up screens on ground w/ legs
+
 ##Screen 2
+
+!!! warning
+	Need documentation for how to set up center screen on 10' truss
+
 ##Projectors
+
 ###Setting Up Projectors
+!!! warning
+	Need documentation for how to correctly set up projectors
+
 ####Projector Settings
 Each week we need to check the color temperature and aspect ratios of each projector. They should be set as the following:
 
 Color Temperature: 6500k  
 Aspect Ratio: 16:9
+
 ###Breaking Down Projectors
 Our projectors need to be cooled down each week before we disconnect them from power.
 
@@ -24,4 +38,11 @@ Our projectors need to be cooled down each week before we disconnect them from p
 6. Attach lens cap to front and back of lens.
 7. Replace front panel of projector and add cap.
 8. Carefully place the lens in the center compartment of the projector road case, and and power cable to other compartment.
+
+!!! note
+	Need photos for how to remove lens and store projectors
+
 ##Genie Lifts
+
+!!! note
+	Need documentation for how to properly set up and store genie lifts.
